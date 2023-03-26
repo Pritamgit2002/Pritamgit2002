@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Pritam Gain</h1>
 <h3 align="center">A passionate programmer and full stack developer from India</h3>
-![programmer-bug](https://user-images.githubusercontent.com/102732012/227804881-ac6cbf70-1749-4846-bfe7-c5ecd94ea59a.gif)
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+
 
 - 🔭 I’m currently working on **a blog website using node js and graphql**
 
