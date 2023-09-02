@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a blog website using node js and graphql**
 
-- 🌱 I’m currently learning **node.js, graphql**
+- 🌱 I’m currently learning **next.js, typescript**
 
 - 👨‍💻 All of my projects are available at [pritamgain.tech](pritamgain.tech)
 
