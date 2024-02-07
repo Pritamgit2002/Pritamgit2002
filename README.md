@@ -8,9 +8,5 @@
 
 - 🔭 I have worked at **CHATGPT WRITTER , Webmakers Studio**
 
-- 🌱 I’m currently learning **next.js, typescript**
-
-- 👨‍💻 All of my projects are available at [pritamgain.tech](pritamgain.tech)
-
 - 📫 How to reach me **pritamgain2002@gmail.com**
 
