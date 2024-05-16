@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102732012/227805450-6c0646d9-8294-4328-9130-f7200a7b387c.gif">
 
 
-- 🔭 I have worked at **CHATGPT WRITTER , Webmakers Studio**
+- 🔭 I have worked at **CHATGPT WRITTER , Webmakers Studio** and currently working at **Web3Scope**
 
 - 📫 How to reach me **pritamgain2002@gmail.com**
 
