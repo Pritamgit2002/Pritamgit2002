@@ -8,6 +8,6 @@
 
 - 🔭 I have worked at **CHATGPT WRITTER , Webmakers Studio** and **Web3Scope**. Currently, woring at **Accenture** as an associate developer.
 
-- [pri](https://pritam-gain.vercel.app/)
+- [pritam-gain.vercel.app](https://pritam-gain.vercel.app/)
 - 📫 How to reach me **pritamgain2002@gmail.com**
 
