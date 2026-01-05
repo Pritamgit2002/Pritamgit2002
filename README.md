@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-
+<iframe src="https://github.com/sponsors/Pritamgit2002/card" title="Sponsor Pritamgit2002" height="225" width="600" style="border: 0;"></iframe>
 
 <h1 align="center">Hi 👋, I'm Pritam Gain</h1>
 <h3 align="center">A passionate programmer and full stack developer from India</h3>
